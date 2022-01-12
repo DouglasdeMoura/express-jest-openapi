@@ -1,0 +1,12 @@
+{
+  "name": "express-example",
+  "version": "1.0.0",
+  "description": "Example app made in Express",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Douglas Moura <douglas.ademoura@gmail.com> (https://douglasmoura.dev)",
+  "license": "MIT"
+}
